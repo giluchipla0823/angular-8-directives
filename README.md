@@ -1,4 +1,4 @@
-# Angular8Directives
+# Angular-8-directives
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
